@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Youth Camp 2016]]></title>
         <description><![CDATA[Youth Camp 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/youth-camp-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 04:28:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 21:37:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/youth-camp-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Youth Camp 2016</p>]]></description>
-            <link>undefinedyouth-camp-2016/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f15b3042-18ac-471e-b8a4-e642c1000940.jpg">]]></description>
+            <link>https://thegrid.ai/youth-camp-2016/youth-camp-2016/index.html</link>
             <guid isPermaLink="false">36040c50-c59e-4133-a1fe-57a3b2bc52aa</guid>
-            <pubDate>Tue, 19 Apr 2016 04:27:57 GMT</pubDate>
+            <pubDate>Sat, 28 May 2016 21:37:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
